@@ -17,5 +17,5 @@
 * Node MCU
 
 
-![img](https://i.imgur.com/PkqkBzY.png)
-![img](https://imgur.com/sQ3rlXH.png)
+<img src = "https://i.imgur.com/PkqkBzY.png" width="83" height="170">
+<img src = "https://imgur.com/sQ3rlXH.png" width="212" height="349">
