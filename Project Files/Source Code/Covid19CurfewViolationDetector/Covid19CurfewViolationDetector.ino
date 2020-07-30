@@ -203,7 +203,7 @@ void loop()
   s += "a:link {background-color: YELLOW;text-decoration: none;}";
   s += "table, th, td {border: 1px solid black;} </style> </head> <body> <h1  style=";
   s += "font-size:300%;";
-  s += " ALIGN=CENTER> GPS Interfacing with NodeMCU</h1>";
+  s += " ALIGN=CENTER> Covid-19 Curfew Violation Detector</h1>";
   s += "<p ALIGN=CENTER style=""font-size:150%;""";
   s += "> <b>Location Details</b></p> <table ALIGN=CENTER style=";
   s += "width:50%";
